@@ -1,6 +1,6 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
+name: "TheArtLabKorea"
+title: "TALK : The Art Lab Korea"
 description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -42,7 +42,6 @@ plugins:
 # Archives
 jekyll-archives:
   enabled:
-    - categories
   layout: archive
   permalinks:
     category: '/category/:name/'
@@ -53,6 +52,7 @@ paginate_path: /page:num/
     
 # Other
 markdown: kramdown
+    - categories
 
 kramdown:
   input: GFM
