@@ -24,7 +24,7 @@ License: https://www.wowthemes.net/freebies-license/
 @media screen and (min-width:1500px) {
     html {
         font-size:18px;
-        font-family: 'GangwonEdu_OTFBoldA'; /* 전체폰트지정 */
+        font-family: 'GangwonEdu_OTFBoldA';
     } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
 }
@@ -49,6 +49,7 @@ pre {
     width: 100%;
     padding: 7px;
     /* font-family: monospace, sans-serif; */
+    font-family: 'GangwonEdu_OTFBoldA';
     font-size: .9rem;
     white-space: pre;
     overflow: auto;
