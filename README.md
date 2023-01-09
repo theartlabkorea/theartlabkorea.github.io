@@ -9,4 +9,5 @@ _더아트랩 코리아_
 * [Favicon Generator](https://realfavicongenerator.net/)
 * [Disqus](https://disqus.com/), [DisqusAdmin](https://theartlabkorea-github-io.disqus.com/admin/moderate/pending)
 * [GoogleAnalytics](https://analytics.google.com/analytics/web/) 
+* [Google Search Console](https://search.google.com/search-console/about)
 * [(AtoZ)Github Blog Jekyll minimal mistakes](https://eona1301.github.io/a_to_z/GithubBlog/)

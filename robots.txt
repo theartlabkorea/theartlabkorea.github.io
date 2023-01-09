@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://theartlabkorea.github.io/sitemap.xml
