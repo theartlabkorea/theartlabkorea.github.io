@@ -329,8 +329,8 @@ span.post-read-more a:hover {
 /* 사이트 타이틀 */
 .mainheading h1.sitetitle {
     /* font-family: Righteous; */
-    font-family: 'GangwonEdu_OTFBoldA';
-    font-weight: 1000;
+    font-family: 'IBMPlexSansKR-Regular';
+    font-weight: 700;
     font-size: 3.5rem;
 }
 
