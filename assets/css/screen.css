@@ -1,7 +1,7 @@
 /* 웹폰트 링크 */
 @font-face {
-    font-family: 'IBMPlexSansKR-Regular';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/IBMPlexSansKR-Regular.woff') format('woff');
+    font-family: 'OKDDUNG';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-02@1.0/OKDDUNG.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -329,8 +329,8 @@ span.post-read-more a:hover {
 /* 사이트 타이틀 */
 .mainheading h1.sitetitle {
     /* font-family: Righteous; */
-    font-family: 'IBMPlexSansKR-Regular';
-    font-weight: 600;
+    font-family: 'OKDDUNG';
+    /* font-weight: 600; */
     font-size: 3.0rem;
 }
 
