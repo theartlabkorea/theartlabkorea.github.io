@@ -13,6 +13,9 @@
     font-style: normal;
 }
 
+$sans-serif: 'GangwonEdu_OTFBoldA';
+$monospace: 'GangwonEdu_OTFBoldA';
+
 /* 안티알리아싱 효과를 주기 위해 글자를 살짝 회전 */
 transform : rotate(0.04deg); 
 
