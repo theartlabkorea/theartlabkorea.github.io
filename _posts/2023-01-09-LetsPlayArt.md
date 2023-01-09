@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Let's Play Art"
-author: 관리자
+author: admin
 categories: [ 수업 ]
 tags: [KoCACA, 코카카, 한국문화예술회관연합회]
 image: img/20230108_114044(1).jpg
