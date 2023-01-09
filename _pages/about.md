@@ -17,3 +17,12 @@ comments: true
 ## History
 
 * 2022-XX-XX 발족
+
+## Logo
+
+* Logo Design
+
+## Contact
+
+* 이메일 :  theartlabkorea@gmail.com
+
