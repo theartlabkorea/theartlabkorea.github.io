@@ -13,9 +13,6 @@
     font-style: normal;
 }
 
-/* 폰트 지정 */
-font-family: 'GangwonEdu_OTFBoldA'
-
 /* 안티알리아싱 효과를 주기 위해 글자를 살짝 회전 */
 transform : rotate(0.04deg); 
 
@@ -25,7 +22,10 @@ Copyright: Sal, WowThemes.net, https://www.wowthemes.net
 License: https://www.wowthemes.net/freebies-license/ 
 */
 @media screen and (min-width:1500px) {
-    html { font-size:18px; } /* Increase the font size on higher resolutions */
+    html {
+        font-size:18px;
+        font-family: 'GangwonEdu_OTFBoldA'; /* 전체폰트지정 */
+    } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
 }
 .mainheading {
