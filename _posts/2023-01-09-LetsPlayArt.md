@@ -4,7 +4,7 @@ title:  "Let's Play Art"
 author: admin
 categories: [수업]
 tags: [KoCACA]
-image: /img/20230108_114044(1).jpg
+image: img/20230108_114044(1).jpg
 description: "Let's Play Art!"
 featured: true
 hidden: false
