@@ -336,7 +336,7 @@ span.post-read-more a:hover {
 
 /* 포스트 타이틀 */
 .mainheading h1.posttitle {
-    font-family: 'GangwonEdu_OTFBoldA';
+    /* font-family: 'GangwonEdu_OTFBoldA'; */
     font-weight: 700;
     margin-bottom: 1rem;
 }
@@ -346,7 +346,7 @@ span.post-read-more a:hover {
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
     padding-top: 15px;
     padding-bottom: 12px;
-    font-family: 'GangwonEdu_OTFBoldA';
+    /* font-family: 'GangwonEdu_OTFBoldA'; */
     font-size: 0.8rem;
     color: rgba(0, 0, 0, .44);
     margin-top: 50px;
