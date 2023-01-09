@@ -5,7 +5,7 @@ description: "더아트랩 코리아 - 미술과 함께하는 놀이"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
-google_analytics: 'UA-46278016-1'
+google_analytics: 'G-7994XZMG36'
 disqus: 'theartlabkorea-github-io'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
