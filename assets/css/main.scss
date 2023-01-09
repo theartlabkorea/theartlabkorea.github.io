@@ -3,6 +3,15 @@
 # Change this file for any custom CSS.
 ---
 
+@font-face {
+    font-family: 'IBMPlexSansKR-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/IBMPlexSansKR-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+font-family: 'IBMPlexSansKR-Regular'
+transform : rotate(0.04deg); 
+
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
 	display:inline;
