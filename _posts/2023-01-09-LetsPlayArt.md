@@ -6,7 +6,7 @@ categories: [ 수업 ]
 tags: [KoCACA, 코카카, 한국문화예술회관연합회]
 image: /_post/img/20230108_114044(1).jpg
 description: "Let's Play Art!"
-featured: false
+featured: true
 hidden: false
 rating: 3.5
 ---
