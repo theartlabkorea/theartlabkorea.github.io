@@ -2,9 +2,9 @@
 layout: post
 title:  "Let's Play Art"
 author: admin
-categories: [ 수업 ]
-tags: [KoCACA, 코카카, 한국문화예술회관연합회]
-image: /_post/img/20230108_114044(1).jpg
+categories: [수업]
+tags: [KoCACA]
+image: /img/20230108_114044(1).jpg
 description: "Let's Play Art!"
 featured: true
 hidden: false
@@ -20,4 +20,4 @@ rating: 3.5
 * 주관 : 한국문화예술회관연합회 (KoCACA)
 * 수행 : 더아트랩(The Art Lab Korea)
 
-![단체사진](img/20230108_113912.jpg)
+![단체사진](../img/20230108_113912.jpg)
