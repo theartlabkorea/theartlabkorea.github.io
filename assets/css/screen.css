@@ -13,11 +13,9 @@
     font-style: normal;
 }
 
-$sans-serif: 'GangwonEdu_OTFBoldA';
-$monospace: 'GangwonEdu_OTFBoldA';
 
 /* 안티알리아싱 효과를 주기 위해 글자를 살짝 회전 */
-transform : rotate(0.04deg); 
+/* transform : rotate(0.04deg); */
 
 /* 
 Template Name: Mediumish 
@@ -362,7 +360,7 @@ span.post-read-more a:hover {
 .article-post {
     /* font-family: Merriweather; */
     font-family: 'GangwonEdu_OTFBoldA';
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
 }
