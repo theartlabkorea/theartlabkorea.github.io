@@ -330,8 +330,8 @@ span.post-read-more a:hover {
 .mainheading h1.sitetitle {
     /* font-family: Righteous; */
     font-family: 'IBMPlexSansKR-Regular';
-    font-weight: 700;
-    font-size: 3.5rem;
+    font-weight: 600;
+    font-size: 3.0rem;
 }
 
 /* 포스트 타이틀 */
