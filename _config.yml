@@ -16,7 +16,10 @@ authors:
   admin:
     name: admin
     display_name: 관리자
+    gravatar:
     email: theartlabkorea@gmail.com
+    web:
+    twitter:
     description: "웹사이트 관리자"
 
 # Plugins
