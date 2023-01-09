@@ -1,9 +1,4 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
-*/
-
+/* 웹폰트 링크 */
 @font-face {
     font-family: 'IBMPlexSansKR-Regular';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/IBMPlexSansKR-Regular.woff') format('woff');
@@ -18,9 +13,17 @@ License: https://www.wowthemes.net/freebies-license/
     font-style: normal;
 }
 
+/* 폰트 지정 */
+font-family: 'GangwonEdu_OTFBoldA'
+
 /* 안티알리아싱 효과를 주기 위해 글자를 살짝 회전 */
 transform : rotate(0.04deg); 
 
+/* 
+Template Name: Mediumish 
+Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
+License: https://www.wowthemes.net/freebies-license/ 
+*/
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
@@ -46,7 +49,6 @@ pre {
     width: 100%;
     padding: 7px;
     /* font-family: monospace, sans-serif; */
-    font-family: 'GangwonEdu_OTFBoldA'
     font-size: .9rem;
     white-space: pre;
     overflow: auto;
@@ -325,7 +327,6 @@ span.post-read-more a:hover {
 
 .mainheading h1.sitetitle {
     /* font-family: Righteous; */
-    font-family: 'GangwonEdu_OTFBoldA'
 }
 
 .mainheading h1.posttitle {
@@ -351,7 +352,6 @@ span.post-read-more a:hover {
 
 .article-post {
     /* font-family: Merriweather; */
-    font-family: 'GangwonEdu_OTFBoldA'
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
@@ -707,7 +707,6 @@ h4,
 h5,
 h6 {
     /* font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; */
-    font-family: 'GangwonEdu_OTFBoldA'
 }
 
 .article-post .h1,
@@ -734,8 +733,7 @@ h6 {
 
 .layout-page .article-post {
     /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; */
-    font-family: 'GangwonEdu_OTFBoldA'
-font-size: 1rem;
+    font-size: 1rem;
 }
 
 .layout-page .article-post p {
@@ -898,7 +896,6 @@ iframe {
     padding: 2px 3px;
     width: 150px;
     /* font-family: Arial; */
-    font-family: 'GangwonEdu_OTFBoldA'
     text-align: center;
     border-radius: 3px;
     transition: all .4s;
