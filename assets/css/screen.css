@@ -326,12 +326,12 @@ span.post-read-more a:hover {
     margin-right: 5px;
 }
 
-/* 사이트제목 */
+/* 사이트 타이틀 */
 .mainheading h1.sitetitle {
     /* font-family: Righteous; */
     font-family: 'GangwonEdu_OTFBoldA';
-    font-weight: 700;
-    font-size: 2.5rem;
+    font-weight: 1000;
+    font-size: 3.5rem;
 }
 
 /* 포스트 타이틀 */
@@ -341,6 +341,7 @@ span.post-read-more a:hover {
     margin-bottom: 1rem;
 }
 
+/* 푸터 */
 .footer {
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
     padding-top: 15px;
@@ -358,6 +359,7 @@ span.post-read-more a:hover {
     color: rgba(0, 0, 0, .8);
 }
 
+/* 아티클 포스트 */
 .article-post {
     /* font-family: Merriweather; */
     font-family: 'GangwonEdu_OTFBoldA';
