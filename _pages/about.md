@@ -19,10 +19,18 @@ comments: true
 * 2022-XX-XX 발족
 
 ## Logo
-![Logo](../assets/images/theartlab_logo_h300.png)
 
+![theartlab_logo_h150.png](../assets/images/theartlab_logo_h150.png)  ![theartlab_logo_h150.png](../assets/images/theartlab_ani/h150/theartlab_ani.gif)
 
-* Logo Design
+* [theartlab_logo.svg](../assets/images/theartlab_logo.svg)
+* [theartlab_logo_h50.png](../assets/images/theartlab_logo_h50.png)
+* [theartlab_logo_h70.png](../assets/images/theartlab_logo_h70.png)
+* [theartlab_logo_h100.png](../assets/images/theartlab_logo_h100.png)
+* [theartlab_logo_h150.png](../assets/images/theartlab_logo_h150.png)
+* [theartlab_logo_h200.png](../assets/images/theartlab_logo_h200.png)
+* [theartlab_logo_h300.png](../assets/images/theartlab_logo_h300.png)
+* [theartlab_logo_h600.png](../assets/images/theartlab_logo_h600.png)
+
 
 ## Contact
 
