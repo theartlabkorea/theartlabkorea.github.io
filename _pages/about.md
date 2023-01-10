@@ -19,6 +19,8 @@ comments: true
 * 2022-XX-XX 발족
 
 ## Logo
+![Logo](../assets/images/theartlab_logo_h300.png)
+
 
 * Logo Design
 
