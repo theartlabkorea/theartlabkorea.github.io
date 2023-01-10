@@ -11,7 +11,6 @@ _현대미술과 예술교육의 실험적 혁신 프로젝트_
 ### 더아트랩 소개
 
 * 단체명칭 : 더아트랩 / The Art Lab _Korea_
-
 * 더아트랩은 대구지역을 중심으로 한 4명의 현대미술 작가들로 구성된 그룹입니다.
 * 문화 및 예술 관련 전문가로 구성된 단체로서 연구 등을 목적으로 하며, 문화 예술의 지속적 발전과 예술 창조 및 표현활동에 매진합니다.
 * 또한 예술교육 환경의 탐색을 통해 지역문화 예술교육에 기여합니다.
@@ -22,6 +21,8 @@ _현대미술과 예술교육의 실험적 혁신 프로젝트_
 
 ## Members
 
+<div class="datatable-begin"></div>
+
 |번호 |이름   |소속  |주요활동  |
 |-----|-------|------|----------|
 |1    |송선영 |대구교육대학교 미술영재교육원 <br/>미술영재교육원 <br/>신조미술협회 <br/>청백여류회가회 <br/>더아트랩 (대표)|**미술영재교육원**<br/> 교육부장(2008~현재)<br/> 영재원 전반적인 운영계획 및 영재 지도, 전시회 기획, 관리 등<br/>**신조미술협회**<br/> 총무(2010~현재)<br/> 신조미술협회 재정관리, 전시기획, 운영, 50주년 기념 사업 전시 진행 등<br/>**청백여류화가회**<br/> 총무, 회장 역임<br/> 40주년 기념 사업 기획, 추진, 진행|
@@ -29,9 +30,12 @@ _현대미술과 예술교육의 실험적 혁신 프로젝트_
 |3    |장윤정 | 안녕 포레스트 (아동미술전문교육원) <br/>더아트랩 | **안녕 포레스트**<br/> 대표(현재)<br/> 자연융합 현대 아동 미술교육 프로그램 연구‧개발<br/> 미술교육원 기획‧운영 |
 |4    |하혜민 | 대구학생문화센터 <br/>창작아카데미 <br/>더아트랩 | **대구과학관** <br/> 체험형 프로그램, 어린이 체험형 기획전 기획 및 전시 <br/>**출강** :  백석문화대학, 예술의 전당, 대구학생문화센터 창작아카데미, 대구교육대학교 영재교육원등 다수 <br/>**정부지원사업 운영** <br/>\- 경상북도교육청 : 맞춤형 미술교육사업<br/>\- 국민건강보험공단 :  청소년 흡연 예방사업 <br/>\- 대구시청주관 :  사랑 나눔 멘토링 사업 <br/>\- 대구시청 :  청소년 재능지원 사업 |
 
+<div class="datatable-end"></div>
 
 
 ## History
+
+<div class="datatable-begin"></div>
 
 |날짜             |활동               |
 |-----------------|-------------------|
@@ -45,11 +49,18 @@ _현대미술과 예술교육의 실험적 혁신 프로젝트_
 |2022.03          |단체 설립 |
 |2020.06-12       |움직이는 미술관 (대구광역시 초·중등학교 60개교 출강) |
 
+<div class="datatable-end"></div>
+
+
 ## Logo
+
+<div class="datatable-begin"></div>
 
 |기본형 |웹용 애니메이션 |
 |-------|----------------|
 | ![theartlab_logo_h150.png](../assets/images/theartlab_logo_h150.png) | ![theartlab_logo_h150.png](../assets/images/theartlab_ani/h150/theartlab_ani.gif) |
+
+<div class="datatable-end"></div>
 
 * [theartlab_logo.svg](../assets/images/theartlab_logo.svg)
 * [theartlab_logo_h50.png](../assets/images/theartlab_logo_h50.png) / [theartlab_logo_h70.png](../assets/images/theartlab_logo_h70.png) / [theartlab_logo_h100.png](../assets/images/theartlab_logo_h100.png) / [theartlab_logo_h150.png](../assets/images/theartlab_logo_h150.png)
