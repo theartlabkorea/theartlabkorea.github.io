@@ -1,16 +1,17 @@
 ---
 layout: page
-title: 더아트랩
+title: 더아트랩?
 permalink: /about
 comments: true
 ---
-## The Art Lab Korea ?
+
+## The Art Lab ?
 
 _현대미술과 예술교육의 실험적 혁신 프로젝트_
 
-### 더아트랩 소개
+### Intro
 
-* 단체명칭 : 더아트랩 / The Art Lab _Korea_
+* 단체명칭 : 더아트랩 / The Art Lab
 * 더아트랩은 대구지역을 중심으로 한 4명의 현대미술 작가들로 구성된 그룹입니다.
 * 문화 및 예술 관련 전문가로 구성된 단체로서 연구 등을 목적으로 하며, 문화 예술의 지속적 발전과 예술 창조 및 표현활동에 매진합니다.
 * 또한 예술교육 환경의 탐색을 통해 지역문화 예술교육에 기여합니다.
@@ -55,6 +56,8 @@ _현대미술과 예술교육의 실험적 혁신 프로젝트_
 
 ## Logo
 
+* 원래 영어 발음으로는 '디아트랩'이겠지만, 우리말 '더'의 의미를 사용해서 '더아트랩'으로 부르기로 했어요.
+
 |기본형 |웹용 애니메이션 |
 |-------|----------------|
 | ![theartlab_logo_h150.png](../assets/images/theartlab_logo_h150.png) | ![theartlab_logo_h150.png](../assets/images/theartlab_ani/h150/theartlab_ani.gif) |
@@ -62,6 +65,7 @@ _현대미술과 예술교육의 실험적 혁신 프로젝트_
 * [theartlab_logo.svg](../assets/images/theartlab_logo.svg)
 * [theartlab_logo_h50.png](../assets/images/theartlab_logo_h50.png) / [theartlab_logo_h70.png](../assets/images/theartlab_logo_h70.png) / [theartlab_logo_h100.png](../assets/images/theartlab_logo_h100.png) / [theartlab_logo_h150.png](../assets/images/theartlab_logo_h150.png) / [theartlab_logo_h200.png](../assets/images/theartlab_logo_h200.png) / [theartlab_logo_h300.png](../assets/images/theartlab_logo_h300.png) / [theartlab_logo_h600.png](../assets/images/theartlab_logo_h600.png)
 * [theartlab_logo_long_h100.png](../assets/images/theartlab_logo_long_h100.png) 
+* [theartlab_logo_long.svg](../assets/images/theartlab_logo_long.svg) 
 
 
 ------
