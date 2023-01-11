@@ -50,7 +50,7 @@ ga('send', 'pageview');
     <!-- Begin Logo -->
     <a class="navbar-brand" href="{{ site.baseurl }}/">
     <!-- <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}"> -->
-    <img src="https://theartlabkorea.github.io/assets/images/theartlab_ani/h50/theartlab_ani.gif" alt="{{ site.name }}">
+    <img src="{{ site.baseurl }}/assets/images/theartlab_ani/h50/theartlab_ani.gif" alt="{{ site.name }}">
     </a>
     <!-- End Logo -->
 
@@ -81,11 +81,11 @@ ga('send', 'pageview');
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/about"><img height="15" src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}">더아트랩</a>
+                <a class="nav-link" href="{{ site.baseurl }}/about"><img height="15" src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}">더아트랩?</a>
                 </li>
 
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://contents.premium.naver.com/drawinart/kidsart">Example</a>
+                <a target="_blank" class="nav-link" href="https://contents.premium.naver.com/drawinart/kidsart">프리미엄콘텐츠</a>
                 </li>
 
                 <li class="nav-item">
@@ -112,8 +112,10 @@ ga('send', 'pageview');
 <!-- Site Title
 ================================================== -->
 <div class="mainheading">
-    <img height="70" src="https://theartlabkorea.github.io/assets/images/theartlab_logo_long_h100.png">
-    <h1 class="sitetitle">{{ site.name }}</h1>
+    <h1 class="sitetitle">
+    </h1><img height="70" src="{{ site.baseurl }}/assets/images/theartlab_logo_long_h100.png">
+    : {{ site.name }}
+    </h1>
     <p class="lead">
         {{ site.description }}
     </p>
