@@ -1,7 +1,7 @@
 # Site
-name: "TALK : The Art Lab Korea"
-title: "TALK : The Art Lab Korea"
-description: "더아트랩 코리아 - 미술과 함께하는 놀이"
+name: "The Art Lab"
+title: "The Art Lab"
+description: "더아트랩 - 미술과 함께하는 놀이"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
