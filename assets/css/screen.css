@@ -334,7 +334,7 @@ span.post-read-more a:hover {
 
 /* 포스트 타이틀 */
 .mainheading h1.posttitle {
-    /* font-family: 'GangwonEdu_OTFBoldA'; */
+    font-family: 'GangwonEdu_OTFBoldA';
     font-weight: 700;
     margin-bottom: 1rem;
 }
@@ -742,6 +742,7 @@ h6 {
 
 .layout-page .article-post {
     /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; */
+    font-family: 'GangwonEdu_OTFBoldA';
     font-size: 1rem;
 }
 
@@ -827,9 +828,9 @@ iframe {
 }
 
 .jumbotron.fortags a {
-    padding: 5px 10px 7px;
+    padding: 10px 10px 7px;
     background: #222;
-    border-radius: 30px;
+    border-radius: 20px;
     color: #fff;
     font-weight: 500;
     text-transform: lowercase;
