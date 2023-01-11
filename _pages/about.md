@@ -60,9 +60,8 @@ _현대미술과 예술교육의 실험적 혁신 프로젝트_
 | ![theartlab_logo_h150.png](../assets/images/theartlab_logo_h150.png) | ![theartlab_logo_h150.png](../assets/images/theartlab_ani/h150/theartlab_ani.gif) |
 
 * [theartlab_logo.svg](../assets/images/theartlab_logo.svg)
-* [theartlab_logo_h50.png](../assets/images/theartlab_logo_h50.png) / [theartlab_logo_h70.png](../assets/images/theartlab_logo_h70.png) / [theartlab_logo_h100.png](../assets/images/theartlab_logo_h100.png) / [theartlab_logo_h150.png](../assets/images/theartlab_logo_h150.png)
-* [theartlab_logo_h200.png](../assets/images/theartlab_logo_h200.png) / [theartlab_logo_h300.png](../assets/images/theartlab_logo_h300.png) / [theartlab_logo_h600.png](../assets/images/theartlab_logo_h600.png)
-
+* [theartlab_logo_h50.png](../assets/images/theartlab_logo_h50.png) / [theartlab_logo_h70.png](../assets/images/theartlab_logo_h70.png) / [theartlab_logo_h100.png](../assets/images/theartlab_logo_h100.png) / [theartlab_logo_h150.png](../assets/images/theartlab_logo_h150.png) / [theartlab_logo_h200.png](../assets/images/theartlab_logo_h200.png) / [theartlab_logo_h300.png](../assets/images/theartlab_logo_h300.png) / [theartlab_logo_h600.png](../assets/images/theartlab_logo_h600.png)
+* [theartlab_logo_long_h100.png](../assets/images/theartlab_logo_long_h100.png) 
 
 
 ------
